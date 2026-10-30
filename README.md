@@ -10,3 +10,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VitorCoelho&theme=dark)
+
+### Open source:
+
+[![Merged pull requests](https://img.shields.io/badge/Merged_PRs-see_all-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=author%3AVitorCoelho+is%3Apr+is%3Amerged&type=pullrequests)
